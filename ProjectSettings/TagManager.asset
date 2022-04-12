@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ArrierePlan
+    uniqueID: 1486890299
+    locked: 0
+  - name: Plan3
+    uniqueID: 2633342197
+    locked: 0
+  - name: Plan2
+    uniqueID: 2570635927
+    locked: 0
+  - name: Plan1
+    uniqueID: 704853843
+    locked: 0
+  - name: AvantPlan
+    uniqueID: 4271429955
+    locked: 0
